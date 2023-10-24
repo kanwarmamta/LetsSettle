@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lets Settle</string>
+    <string name="lets_settle">Lets Settle</string>
+    <string name="sign_in_using_google">Sign In Using Google</string>
+</resources>
